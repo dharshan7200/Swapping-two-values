@@ -29,13 +29,9 @@ temp=y
 y=x
 x=temp
 print("Swapped values are:",x,y)
-
 ```
-
 ## OUTPUT:
-
 ![OUTPUT](/OUTPUT.png)
-
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
